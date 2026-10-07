@@ -107,7 +107,7 @@ const translations = {
 
     en: {
 
-        subtitle: "AI Powered Healthcare Assistant",
+        subtitle: "Healthcare Assistant",
         login: "Login",
         patientName: "Patient Name",
         patientPhone: "Patient Phone Number",
@@ -116,7 +116,7 @@ const translations = {
         dashboard: "Dashboard",
         logout: "Logout",
         welcome: "Welcome",
-        aiMonitoring: "AI Monitoring Online",
+        Monitoring: "Online",
         totalMedicines: "Total Medicines",
         taken: "Taken",
         missed: "Missed",
@@ -166,7 +166,7 @@ const translations = {
 
     ta: {
 
-        subtitle: "AI இயக்கும் சுகாதார உதவியாளர்",
+        subtitle: "சுகாதார உதவியாளர்",
         login: "உள்நுழைய",
         patientName: "நோயாளியின் பெயர்",
         patientPhone: "நோயாளியின் தொலைபேசி எண்",
@@ -175,7 +175,7 @@ const translations = {
         dashboard: "முகப்பு",
         logout: "வெளியேறு",
         welcome: "வரவேற்கிறோம்",
-        aiMonitoring: "AI கண்காணிப்பு செயல்பாட்டில்",
+        aiMonitoring: "கண்காணிப்பு செயல்பாட்டில்",
         totalMedicines: "மொத்த மருந்துகள்",
         taken: "எடுத்தவை",
         missed: "தவறியவை",
@@ -225,7 +225,7 @@ const translations = {
 
     hi: {
 
-        subtitle: "AI संचालित स्वास्थ्य सहायक",
+        subtitle: "संचालित स्वास्थ्य सहायक",
         login: "लॉगिन",
         patientName: "मरीज का नाम",
         patientPhone: "मरीज का फोन नंबर",
@@ -234,7 +234,7 @@ const translations = {
         dashboard: "डैशबोर्ड",
         logout: "लॉगआउट",
         welcome: "स्वागत है",
-        aiMonitoring: "AI निगरानी ऑनलाइन",
+        aiMonitoring: "ऑनलाइन",
         totalMedicines: "कुल दवाएं",
         taken: "ली गई",
         missed: "छूटी",
@@ -293,7 +293,7 @@ const translations = {
         dashboard: "డాష్‌బోర్డ్",
         logout: "లాగౌట్",
         welcome: "స్వాగతం",
-        aiMonitoring: "AI పర్యవేక్షణ ఆన్‌లైన్‌లో ఉంది",
+        aiMonitoring: "పర్యవేక్షణ ఆన్‌లైన్‌లో ఉంది",
         totalMedicines: "మొత్తం మందులు",
         taken: "తీసుకున్నవి",
         missed: "మిస్ అయినవి",
@@ -357,7 +357,7 @@ const extraTranslations = {
         step1: "1. Name",
         step2: "2. Dosage",
         step3: "3. Time",
-        aiTitle: "AI Monitoring",
+        aiTitle: "Monitoring",
         aiText: "Medication reminders, adherence tracking and caregiver alerts are active.",
         pending: "Pending",
         takenS: "Taken",
@@ -380,7 +380,7 @@ const extraTranslations = {
         step1: "1. பெயர்",
         step2: "2. அளவு",
         step3: "3. நேரம்",
-        aiTitle: "AI கண்காணிப்பு",
+        aiTitle: "கண்காணிப்பு",
         aiText: "மருந்து நினைவூட்டல்கள், பின்பற்றல் கண்காணிப்பு மற்றும் பராமரிப்பாளர் எச்சரிக்கைகள் செயலில் உள்ளன.",
         pending: "நிலுவையில்",
         takenS: "எடுத்தது",
@@ -403,7 +403,7 @@ const extraTranslations = {
         step1: "1. नाम",
         step2: "2. खुराक",
         step3: "3. समय",
-        aiTitle: "AI निगरानी",
+        aiTitle: "निगरानी",
         aiText: "दवा रिमाइंडर, पालन ट्रैकिंग और देखभालकर्ता अलर्ट सक्रिय हैं।",
         pending: "लंबित",
         takenS: "ली गई",
@@ -426,7 +426,7 @@ const extraTranslations = {
         step1: "1. పేరు",
         step2: "2. మోతాదు",
         step3: "3. సమయం",
-        aiTitle: "AI పర్యవేక్షణ",
+        aiTitle: "పర్యవేక్షణ",
         aiText: "మందుల రిమైండర్లు, పాటింపు ట్రాకింగ్ మరియు కేర్‌గివర్ హెచ్చరికలు సక్రియంగా ఉన్నాయి.",
         pending: "పెండింగ్",
         takenS: "తీసుకున్నది",
